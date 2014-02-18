@@ -1,3 +1,5 @@
-PORTFOLIO_1 
+Resumo:
+===========
+html; css; javascript; jquery
 
-Este foi o primeiro exercicio onde utilizamos jquery para fazer o banner, através do nivo slider.
+Foi feito um banner com várias imagens, através do nivo slider: http://dev7studios.com/plugins/nivo-slider/
